@@ -1,0 +1,4 @@
+git fetch origin master
+git merge update_script master
+git merge origin/master
+git pull origin master
